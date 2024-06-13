@@ -1,0 +1,3 @@
+# A
+
+requer: alacritty
